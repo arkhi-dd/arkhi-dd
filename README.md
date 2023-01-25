@@ -1,4 +1,3 @@
-# arkhipovadarya
 <h1 align="center">Hi 👋, my name is Darya</h1>
 <h3 align="center">QA Engineer by trade, cat lover, gamer and series-binger in my free time, let's team up and deliver the best products possible!</h3>
 
