@@ -1,3 +1,3 @@
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Daria%20Arkhipova%&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Daria%20Arkhipova%&fontSize=70&animation=twinkling)
 # Hey there 👋 
 **I'm a QA engineer by day ☼ and cat-loving, game-playing, series-binging pro by night ☾**<br>
