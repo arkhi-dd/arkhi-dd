@@ -1,4 +1,4 @@
-# Hi 👋, my name is Darya
-### QA Engineer by trade, cat lover, gamer and series-binger in my free time
+# Hey there 👋 
+**My name is Daria** - I'm a QA engineer by day ☼ and cat-loving, game-playing, series-binging pro by night ☾ <br>
 
-- 🌱 I’m currently learning **Python + Selenium test automation**
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
