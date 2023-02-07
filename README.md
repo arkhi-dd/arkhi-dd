@@ -8,7 +8,6 @@ I'm a QA engineer by day ☀ and cat-loving, game-playing, series-binging pro by
 📚 I'm currently learning ... <br>
 🎯 Goals: ... <br>
 🎲 Fun fact: ... <br>
-
 # Skills
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='google chrome' src='https://img.shields.io/badge/web_testing-100000?style=for-the-badge&logo=google chrome&logoColor=white&labelColor=2F2F2F&color=2F2F2F'/></a>
