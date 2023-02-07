@@ -11,11 +11,12 @@ I'm a QA engineer by day ☀ and cat-loving, game-playing, series-binging pro by
 🎲 Fun fact: ... <br>
 
 ### Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='google chrome' src='https://img.shields.io/badge/web_testing-100000?style=for-the-badge&logo=google chrome&logoColor=white&labelColor=2F2F2F&color=2F2F2F'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='apple' src='https://img.shields.io/badge/ios_testing-100000?style=for-the-badge&logo=apple&logoColor=white&labelColor=2F2F2F&color=2F2F2F'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='android' src='https://img.shields.io/badge/android_testing-100000?style=for-the-badge&logo=android&logoColor=white&labelColor=2F2F2F&color=2F2F2F'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='jira' src='https://img.shields.io/badge/Jira-100000?style=for-the-badge&logo=jira&logoColor=white&labelColor=2F2F2F&color=2F2F2F'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=2F2F2F&color=2F2F2F'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='postman' src='https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman&logoColor=white&labelColor=2F2F2F&color=2F2F2F'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='postgresql' src='https://img.shields.io/badge/SQL-100000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2F2F2F&color=2F2F2F'/></a>
+
