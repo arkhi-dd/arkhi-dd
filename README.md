@@ -3,7 +3,6 @@
 # Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /><br>
 
 I'm a QA engineer by day ☀ and cat-loving, game-playing, series-binging pro by night 🌙<br>
-
 # About me
 
 📚 I'm currently learning ... <br>
