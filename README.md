@@ -2,10 +2,7 @@
 
 # Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /><br>
 I'm a QA engineer by day ☀ and game-playing, series-binging pro by night 🌙<br>
-# About me
-📚 I'm currently learning ... <br>
-🎯 Goals: ... <br>
-🎲 Fun fact: ... <br>
+You can check my little portfolio [here](https://github.com/arkhi-dd/portfolio)
 # Skills
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='google chrome' src='https://img.shields.io/badge/web_testing-100000?style=for-the-badge&logo=google chrome&logoColor=white&labelColor=2F2F2F&color=2F2F2F'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='apple' src='https://img.shields.io/badge/ios_testing-100000?style=for-the-badge&logo=apple&logoColor=white&labelColor=2F2F2F&color=2F2F2F'/></a>
